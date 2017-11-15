@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignaturePad">
+        <!-- indicate signature pen stroke -->
+        <attr name="sign_pen_stroke" format="float" />
+
+        <!-- Indicate signature colour -->
+        <attr name="sign_pen_color" format="color" />
+    </declare-styleable>
+</resources>
